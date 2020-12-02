@@ -1,0 +1,13 @@
+name = "Fn"
+uuid = "a35f1eae-a5a7-4cdf-bf32-0753b1daeb92"
+authors = ["Marten Lienen <marten.lienen@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
