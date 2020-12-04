@@ -3,6 +3,9 @@ uuid = "a35f1eae-a5a7-4cdf-bf32-0753b1daeb92"
 authors = ["Marten Lienen <marten.lienen@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+
 [compat]
 julia = "1.5"
 
