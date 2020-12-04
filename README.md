@@ -1,5 +1,11 @@
 # Anonymous Parameter Functions for Julia
 
+My entry to the [long list](https://github.com/JuliaLang/julia/issues/5571) of attempts to
+make the underscore useful in Julia. And all of them are more advanced than this one but
+anyway, here you go.
+
+---
+
 Fn.jl exports `@fn` to bring Clojure's [shortform anonymous
 functions](https://clojure.org/guides/learn/functions#_anonymous_function_syntax) to
 Julia. Now you don't need to name the arguments of throwaway functions anymore and
